@@ -27,8 +27,8 @@
             ],
     'assets': {
         'web.assets_backend': [
-            'static/src/js/ToothChart.js',
-            'static/src/scss/toothChart.scss',
+            'DCMS/static/src/js/ToothChart.js',
+            'DCMS/static/src/scss/toothChart.scss',
         ],
     },
     'installable': True,
