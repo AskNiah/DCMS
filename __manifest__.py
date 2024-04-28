@@ -23,12 +23,15 @@
         # 'report/report.xml',
              ],
     'qweb': [
-        'static/src/xml/toothChart.xml',
+      #  'static/src/xml/toothChart.xml',
             ],
     'assets': {
+        'web.assets_qweb': [
+            '/DCMS/static/src/xml/toothChart.xml',
+        ],
         'web.assets_backend': [
-            'DCMS/static/src/js/ToothChart.js',
-            'DCMS/static/src/scss/toothChart.scss',
+            '/DCMS/static/src/js/ToothChart.js',
+            '/DCMS/static/src/scss/toothChart.scss',
         ],
     },
     'installable': True,
