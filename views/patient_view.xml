@@ -67,7 +67,7 @@
                             <div>
 
                             </div>
-                            <field name="qstn_2_note" invisible="!qstn_2" />
+                            <field name="qstn_2_note" invisible="not qstn_2" />
                         </page>
                         <page string="Medical Alerts">
                             <div>
