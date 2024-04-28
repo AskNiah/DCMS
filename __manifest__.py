@@ -25,6 +25,12 @@
     'qweb': [
         'static/src/xml/toothChart.xml',
             ],
+    'assets': {
+        'web.assets_backend': [
+            'static/src/js/ToothChart.js',
+            'static/src/scss/toothChart.scss',
+        ],
+    },
     'installable': True,
     'application': True,
     'auto_install': False,
