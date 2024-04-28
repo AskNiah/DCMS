@@ -67,7 +67,7 @@
                             <div>
 
                             </div>
-                            <field name="qstn_2_note" attrs="{'invisible': [('qstn_2', '=', 'No')]}" />
+                            <field name="qstn_2_note" invisible="!qstn_2" />
                         </page>
                         <page string="Medical Alerts">
                             <div>
