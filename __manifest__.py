@@ -16,7 +16,7 @@
         # 'wizard/remove_invoice_views.xml',
         'views/appointment_view.xml',
         'views/patient_view.xml',
-        'views/backend.xml',
+        #'views/backend.xml',
         'views/Patient_Appointment_Form_view_customization.xml',
         # 'views/inventory_stock.xml',
         # 'report/report_sale_receipt_template.xml',
